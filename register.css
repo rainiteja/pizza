@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    border: slodi 1px;
+    height: 560px;
+    background-image: url(pizza1.jpg);
+    background-repeat: no repeat;
+    background-size: 1400px 700px;
+}
+form{
+    border: solid 0px white;
+    margin-left: 600px;
+    width: 500px;
+    margin-top: 150px;
+    padding-left: 10px;
+}
+label{
+    color:cornsilk;
+    font-size: 25px;
+}
+h1{
+    color:aquamarine;
+    font-size: 40px;
+    text-align: center;
+}
+inpu{
+    height: 40px;
+    width: 310px;
+
+}
+button{
+    height: 30px;
+    width: 100px;
+    background-color:blue;
+    color: burlywood;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 20px;
+    }
+    P{
+        color: antiquewhite;
+        font-size: 20PX;
+    }
+    P A{
+        color:darkgoldenrod;
+        font-size: 20PX;
+    }
